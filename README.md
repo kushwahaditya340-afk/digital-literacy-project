@@ -1,6 +1,16 @@
 # digital-literacy-project
 
-# output
+# NGMC_PROJECT
+* Name- aditya kushwah
+* registion no- 25MIM10223
+* branch- integrated Mtech (AI)
 
-<img width="385" height="829" alt="Screenshot 2026-03-30 181518" src="https://github.com/user-attachments/assets/02c3f687-8cc2-404d-ab8e-36a68b1fec70" />
+# Tasks Completed:
 
+* Task_1: infographic
+* Task 2: Digital Portfolio
+* Task 3: Platforms exploration
+* Task 4: Email ETIquate
+* Task 5: Cybercrime Awareness
+
+# Google Form Link
